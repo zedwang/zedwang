@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys 👋
 
 <!--
 **zedwang/zedwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![:zedwang](https://count.getloli.com/get/@:zedwang)
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zedwang&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zedwang&theme=buefy&hide_border=true" />
+</p>
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=zedwang&theme=dracula&color=B994E6&bg_color=transparent" />
+
